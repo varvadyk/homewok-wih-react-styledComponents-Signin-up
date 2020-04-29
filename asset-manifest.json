@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/homewok-wih-react-styledComponents-Signin-up/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/homewok-wih-react-styledComponents-Signin-up/static/js/main.3e3dd653.chunk.js",
+    "main.js.map": "/homewok-wih-react-styledComponents-Signin-up/static/js/main.3e3dd653.chunk.js.map",
+    "runtime-main.js": "/homewok-wih-react-styledComponents-Signin-up/static/js/runtime-main.abe0b3a5.js",
+    "runtime-main.js.map": "/homewok-wih-react-styledComponents-Signin-up/static/js/runtime-main.abe0b3a5.js.map",
+    "static/js/2.36b222f5.chunk.js": "/homewok-wih-react-styledComponents-Signin-up/static/js/2.36b222f5.chunk.js",
+    "static/js/2.36b222f5.chunk.js.map": "/homewok-wih-react-styledComponents-Signin-up/static/js/2.36b222f5.chunk.js.map",
+    "index.html": "/homewok-wih-react-styledComponents-Signin-up/index.html",
+    "precache-manifest.a22d9dcf8ad1ff961e99a99ffc46ea20.js": "/homewok-wih-react-styledComponents-Signin-up/precache-manifest.a22d9dcf8ad1ff961e99a99ffc46ea20.js",
+    "service-worker.js": "/homewok-wih-react-styledComponents-Signin-up/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/homewok-wih-react-styledComponents-Signin-up/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.36b222f5.chunk.js.LICENSE.txt": "/homewok-wih-react-styledComponents-Signin-up/static/js/2.36b222f5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.abe0b3a5.js",
+    "static/js/2.36b222f5.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.3e3dd653.chunk.js"
+  ]
+}
