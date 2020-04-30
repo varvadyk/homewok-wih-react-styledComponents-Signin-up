@@ -48,7 +48,7 @@ const SignIn = ()=>{
     <Button type="button" >SIGN IN</Button>
      <TextWrapper>
      <Link to="#" style={{textDecoration:'none',color:'#6186a3', fontSize: '12px', paddingRight:'30px '}}>Forgot password?</Link>
-     <Link to="/signup" style={{textDecoration:'none',color:'#6186a3', fontSize: '12px' }}>Don`t have account?Sign Up</Link>
+     <Link to="/homewok-wih-react-styledComponents-Signin-up/signup" style={{textDecoration:'none',color:'#6186a3', fontSize: '12px' }}>Don`t have account?Sign Up</Link>
      </TextWrapper>
      <Copyright>Copyright <MdCopyright/> Your Website 2020</Copyright>
      </SignInContent>
