@@ -6,11 +6,11 @@ import SignUp from './components/SignUp';
  export const routes=[
     
   {
-         path:'/signup',
+         path:'/homewok-wih-react-styledComponents-Signin-up/signup',
          component:<SignUp />
      },
      {
-        path:'/',
+        path:'/homewok-wih-react-styledComponents-Signin-up/',
         component:<SignIn />,
          exact: true
     },
