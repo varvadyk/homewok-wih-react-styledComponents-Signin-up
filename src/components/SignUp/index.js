@@ -69,7 +69,7 @@ return(
        </LabelText>
     </LabelStyle>
     <Button type="button">SIGN UP</Button>
-    <Link to="/" style={{textDecoration:'none',color:'#6186a3', fontSize: '12px',paddingTop:"18px",paddingLeft:"140px"}}>Already have an account?Sign in</Link>
+    <Link to="/homewok-wih-react-styledComponents-Signin-up/" style={{textDecoration:'none',color:'#6186a3', fontSize: '12px',paddingTop:"18px",paddingLeft:"140px"}}>Already have an account?Sign in</Link>
     <Copyright>Copyright <MdCopyright/> Your Website 2020</Copyright>
 </SignUpContent>
     </SignUpWrapper>
